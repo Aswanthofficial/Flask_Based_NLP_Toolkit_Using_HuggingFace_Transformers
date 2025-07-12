@@ -1,24 +1,31 @@
-# 🧠 Aswanth's NLP Toolkit (Flask + Hugging Face)
+# 🧠 Aswanth's NLP Toolkit
 
-This project is a **Flask-based NLP web application** that allows users to perform multiple NLP tasks using Hugging Face Transformers.
+A Flask-based NLP web application using Hugging Face Transformers. Easily perform tasks like:
 
-> ✨ Simple interface. Powerful Transformers. Built with love by Aswanth.
+- ✅ Sentiment Analysis  
+- ✍️ Text Generation  
+- 🔍 Question Answering  
+- 🧩 Mask Filling  
+- ✂️ Summarization  
+
+Built with:
+- Flask
+- Bootstrap 5 
+- Hugging Face Transformers
 
 ---
 
-## 🔧 Features
+## 📸 Sample Screenshots
 
-✅ Supports the following NLP tasks:
-- **Sentiment Analysis**  
-- **Text Generation**  
-- **Mask Fill (Masked Language Modeling)**  
-- **Summarization**  
-- **Question Answering (with context)**  
+| Task                     | Screenshot                                |
+|--------------------------|--------------------------------------------|
+| 1. Homepage              | <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec4edbc1-eb1f-4785-86b2-0c51c2fe43bd" />     |
+| 2. Sentiment Analysis    | ![Sentiment Analysis](screenshots/sentiment.png) |
+| 3. Text Generation       | ![Text Generation](screenshots/generation.png) |
+| 4. Question Answering    | ![Question Answering](screenshots/qa.png)  |
+| 5. Summarization         | ![Summarization](screenshots/summarization.png) |
 
-✅ Clean and responsive frontend using **Bootstrap 5**  
-✅ Dynamic UI behavior with **JavaScript**  
-✅ Styled output results with **FontAwesome** icons  
-✅ Backend powered by **Hugging Face Transformers Pipelines**
+> 📁 Place all images inside a folder called `screenshots/`
 
 ---
 ## SAMPLE IMAGE
