@@ -28,17 +28,18 @@ Built with:
 
 
 ---
+------------------------------------------------------------
 
 ## 📁 Project Structure
-------------------------------------------------------------
-nlp/
-│
-├── app.py                    # Flask backend logic
-├── requirements.txt          # Python dependencies
-├── templates/
-│   └── index.html            # Main HTML with Bootstrap UI
-├── static/
-│   └── style.css             # Custom CSS (optional)
+
+- nlp/
+- │
+- ├── app.py                    # Flask backend logic
+- ├── requirements.txt          # Python dependencies
+- ├── templates/
+- │   └── index.html            # Main HTML with Bootstrap UI
+- ├── static/
+- │   └── style.css             # Custom CSS (optional)
 
 ------------------------------------------------------------
 
