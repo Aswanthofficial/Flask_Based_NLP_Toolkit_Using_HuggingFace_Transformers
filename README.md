@@ -30,7 +30,7 @@ Built with:
 ---
 
 ## 📁 Project Structure
-
+------------------------------------------------------------
 nlp/
 │
 ├── app.py                    # Flask backend logic
@@ -39,6 +39,7 @@ nlp/
 │   └── index.html            # Main HTML with Bootstrap UI
 ├── static/
 │   └── style.css             # Custom CSS (optional)
+------------------------------------------------------------
 
 ---
 
