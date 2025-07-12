@@ -21,12 +21,19 @@ This project is a **Flask-based NLP web application** that allows users to perfo
 ✅ Backend powered by **Hugging Face Transformers Pipelines**
 
 ---
+## SAMPLE IMAGE
 
-## 🚀 Live Demo
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/ec4edbc1-eb1f-4785-86b2-0c51c2fe43bd" />
 
-> *(If deployed)*: [https://your-domain.com](https://your-domain.com)
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/2e9700df-ee85-4ff1-838f-139d407bcc66" />
 
----
+<img width="1894" height="574" alt="image" src="https://github.com/user-attachments/assets/ce6afdd2-b464-4904-bc9b-56c3f2ef9816" />
+<img width="1891" height="831" alt="image" src="https://github.com/user-attachments/assets/8d310d42-fe8e-49c9-a5c3-0db4a3c3073e" />
+
+
+
+
+
 
 ## 📁 Project Structure
 
